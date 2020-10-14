@@ -2,9 +2,9 @@
   Data Visualization &bullet; 2020
   <small>
     <br/>
-    MSc Finance & Big Data
+    MSc Financial Markets & Technologies
     &bullet; Neoma Business School
   </small>
 </h1>
 
-Website for the MSc Finance & Big Data - Data Visualization Course.
+Website for the MSc Financial Markets & Technologies - Data Visualization Course.
